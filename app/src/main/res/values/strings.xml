@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">简易计算器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="num_one">1</string>
+    <string name="num_two">2</string>
+    <string name="num_three">3</string>
+    <string name="num_four">4</string>
+    <string name="num_five">5</string>
+    <string name="num_six">6</string>
+    <string name="num_seven">7</string>
+    <string name="num_eight">8</string>
+    <string name="num_nine">9</string>
+    <string name="num_zero">0</string>
+
+    <string name="button_add">+</string>
+    <string name="button_subtract">-</string>
+    <string name="button_multiply">*</string>
+    <string name="button_divide">/</string>
+    <string name="button_equal">=</string>
+
+    <string name="show">""</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
